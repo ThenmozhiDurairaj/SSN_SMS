@@ -1,0 +1,233 @@
+Nae 
+Mov ax,[0025] aise likhna e! Nd coal ka 3rd nd 4th ho gya????
+
+Myny aesy kia hy 
+Mov ax, [0×0025] 
+
+hec pm laptops walun ny kaha hai k 
+Their is no problem to b inprocess.
+
+I dnt knw k kea fill kro in mai ... kisi official bandy sy pta kro
+
+Unho ny date of admission poche hai ... hssc % ki field dobara fill krna pary g ... education sys. Pocha hai cgpa pocha hai (as june 2014) , city of permanent residenc , etc
+
+Form mai kya fill krna ha? :( 
+
+Aho paisey hi zaya hue han 
+
+Nae yr! Huda ne to abi update kia e nae to usy pta nae ho ga!
+
+Wo nae hni thi set un ki optn e nae ani thi systm of educatn semmestr selct krne k baad!
+
+Teri kia garr barr hui????
+
+Hayeeeeeeee Allah! Yr tnsn me daal rae e tu! Ab kch garr barr na ho gae o!
+
+Tm ne update krne k baad chek kia tha account????
+
+Hehe, ab puch rhi o? :O 
+han g DSA e h, lkn tymings mere khayal se to 9:45 nhi t?? o_O 
+Wese honestly btaun to mene b ab e shuru kiya prhna.
+
+Yar us paper my code given hy or big O calculate krna hy
+
+Yar ye to mjy pta hy
+Tuny group my jo mid wala paper post hua hy wo daikha? 
+
+Yar ye to mjy pta hy
+Tuny group my jo mid wala paper post hua hy wo daikha? 
+
+Quiz 3 kn sa wala e???? Nd tm ne quick sort prep kr li????
+
+Yar ksi b given function ka big O kaisy calculate krty hyn? 
+
+10n+20 btaya th naila baji ne lkn 10n+25 bnta h, kher constant se koi frq nhi prta bs ""n"" linear hona chahye.
+
+Yei walay quiz ka puch rhi t na? :P mje ese quiz number se nhi pta.
+
+Quik sort n merge sort huffff
+
+Or frequency mein loop k mutabiq 5 iterations t to 5 hogi frequency. Total mein 5*(1+Tpower) = 5+5Tpower = 5+5(1+2n+3) = 5+5(2n+4) = 5+10n+20
+
+Usme jese hm ne power k function ka tym nikala th wese e nikalna h. Lkn usme ""n"" ko as it is likhna h uski value put nhi krni. Qk wrna wo linear k bjaye constant tym bn jayega.
+or table mein s/e mein wese e likhna h jese last lec mein sir ne btaya. Yani 1+Tpower (time taken by power function)
+
+Prefix kaha se krna e prep?????
+
+Mje timings confirm krke bta dena pls.
+
+2 Din bilkul tym nhi mila :'( 
+aata to h lkn dr lg rha h bht :( 
+
+Yr meri show nae ho rae nd huma ki b nae ho rae! Mera to jo year tha wo change e nae ho ra tha 2014 e aa ra tha tmne drop down list se usey 2013 kese kiya??????
+
+Yr irsa tmari date of admisn update krne k baad show ho rae thi???
+
+Mere khyal se to aisa e ha! Yr irsa kal tm suba kitne bje ao gi??? 8:30 ya late ao gi????
+
+Si mujhry b Bta daina
+
+10:45 
+source : ramsha ahsan :P
+
+Rehny hi do sir ki book sy karny ki koshish ki jo samjh ayi thi wo b chali gyi :( 
+
+Ma ny kbi kisi programming course ki book aisi nai dekhi full of confusions :/
+
+Merge sort me merging to smaj aa gae bt sorting kese ho rae e ye smaj nae aa rae!
+
+Mere pass 3 hn isi liye smj nhi aa rhi kya krun konsi prhun :P 
+
+Haha, chalo mje thori tasalli hui k kisi ne b nhi ki :P
+
+Book reading ki? kahan se ki?? :( 
+
+Guys, subah paper kitne bje start hona h? :/ 
+
+Me ne b yahi poochna tha
+
+Akhri dn b to nikly gi hi na to acha ni pehly hi dn nkl jye r kaam muky ;) 
+
+Hahah chaalo g ...agr me kahun kl dm ka ppr hai to? 
+
+Mne Ku chora last py krnay k liye :'( 
+
+:'( itna khrab hua h Ppr Jis ki hadd nai :'( 
+
+Mera aik Pura question choot gya :'( program A r program B wala :( :'(
+
+Kha o? Koi aya hy? 
+
+Han mene b ese e bnaya lkn mje ye theek nhi lg rha :| tumne check b kiya??
+
+Ye hoga formula, A[r][c]= c*ROWS+r
+
+Sorry, tum agr la ski to still leti ana kl.
+
+Han g, mein b ghr aa k yei soch rhi t :( 
+
+Kya han? :/ kese hona h??
+
+Kisi ne col major order k liye formula dekha, kese index calculate hona h? :( 
+
+TDEV productivity r staff wagera mai Ei use krna hai ya phr E
+
+Knsy waly lecture my hyn? Myny to nhi daikhien
+
+Huma wali pix hongi, lkn dun kese? :P 
+
+Ok or yr ma'am ny hmien software project management (last lecture ) ki slides mhi d na? Wo 4p's,us ko kha sy tyar krna hy? 
+
+Myny ubi tk software metrics ki hyn bs :'( 
+
+Cost / fb and estimated effort ka loc wala formula he use ho ga na? 
+
+Bs ye 2 cheezien? 
+
+Yr jb fp wala numerical kia tha to kia kia calculate kia tha? 
+
+Pta nhi, tm daikh lo aik dfa
+
+Incremental iterative h linear hai ya phr evolutionary
+
+Productivity ma hmesha Ei hi hota tdev project time dependent ha
+
+Ma ny to effort or time of development ka likha hua k effort actual duration of work hota ha lekin TDEV total days in schedule hota ha jaisy TDEV 1 month ho ga wo weekends b cnsider kry ga magr effort 20 days ho gi
+
+Spiral is an evolutionar model that couples the iterative nature of prototyping with cntrolled aspects of waterfall model
+
+Woi to mne to net sy Prha 3 no e use hoty
+
+Han me ne b! :-D   bt me ne wo parhi nae bs agey krte krte headng e dekhi thi!
+
+A.a guys, tum mese kisi ki data cable to nhi gumi?
+mere pass ek anjaani c h.. :P Halanke mere pass to apni hoti h, mein kisi se leti nhi phir kese aagai :\ 
+
+Wo jo mam ne krwaya tha conversion effort ki calendar month mai wo ki h?
+
+Comparison kia tha
+
+Yr wo calendar month r time ki smj nai arau
+
+Mam ne productivity k liye phr Ei q use kia tha
+
+Incremental iterative h linear hai ya phr evolutionary
+
+Mujy ma'm ka nai yad ma ny tou book sy hi dekha
+
+Mein to Room 24 k pass e bahar betth gai hun bench pe. Ab wahin aajana.
+
+ECo prhty hue SE py pyar ara 
+
+Nai Prha Ja ra :'( 
+
+Aik e ki thi alferd Marshall ki
+
+Sardiyon ka pehla soup.. <3 
+nom nomm :3 ;)
+ab shyd eco damagh mein ghuss jaye :D
+
+Rona a rha hy, mjsy nhi ho rha :'( 
+
+Guys, economics prhne wala dil kahan se milta h :( :P 
+
+Guyzz kal economics ka papr e hai na????
+
+Kis lecture ma ha?
+
+gcr mai Ajana
+
+Han roz itne bje e hona start. Huma, arfa ne btaya.
+
+Guys, paper roz e 10:45 pe start hona h na??
+
+Hehe, sahi h :P Lkn SE khud to zra b simple nhi h -_- :( 
+
+Book mai Khali keep it simple likha h
+
+Mam ne wese Usko keep it simple n straight bola tha
+
+Guyzz update krne k baad date of admisn show hti e????
+
+Guyzz cgpa ki age kese nikalte hn????
+
+Haha, ramsha b end pe yei keh rhi t k bhaar mein jaye ye sb :P waqai tng krke rkh diya in logo ne :( :@ 
+
+Acha :/ pta nhi. Wo update krne th wese. Year of study 1 or percentage b 1st sem ki.
+
+Year of stdy ko fill krne ki yehi optn ani thi wo nae fill hna tha bt%age in last exam ki to lazmi ani chaiye! Yr %age in last exam me frst smstr ki %age likhni e?????
+
+Han Sae ha aisey hi krna tha
+
+Wo annual system k liye h
+
+Guyzz sb mndy ko suba kitne bje ao ge 8:30 ya just papr se pehle 10:30 tk?????
+
+Bhj di h tm.ko definition
+
+Apny bhai ko kaho k Ajae
+
+Bhaar mai Jayn Ye log
+
+Update to mne Dbaya nai khud kese Ho gya :'(
+
+Mjy apna GPA nai.Yd frst semester ka:(
+
+Me ne kr liya fill
+
+Guys, form mein woi fill krna h jo mene send kiya th. Us din hmne Maha Mahnoor se b pucha th unhon ne b same cheezen likhi t.
+
+Baqi sb jo b btaen wo mje b btana!
+
+Guys, kisi k pass last lecture h? Jo hmne nhi liya th..
+
+Acha, or last lecture kiske pass hoga? :( 
+
+Oye nhi :( urti urti tardeed b suno jldi is khabar ki :P 
+
+Huda k pas net ni hy :( mayra k reply ni ayq
+
+Yar wo jo naila api ny quiz dia tha solution note krny k liye  jis my numbr of steps calculate krny thy, us ki pic krdo plz jis k pas b hy
+
+Or irsa, abi samaan pura unpack nhi hua, to shyd mein apna computer na la skun :( mein agr ek din k liye tumhari USB le jaun to koi problem to nhi h? Qk ab to labs b free nhi hongi.. :( Mene socha th agr fri ko gai to tb le lungi lkn koi gya e nhi.
+

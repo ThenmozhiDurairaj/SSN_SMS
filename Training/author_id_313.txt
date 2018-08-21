@@ -1,0 +1,242 @@
+AssalamUalaikum ek kaam th :P
+
+Kal DSA ki last lab o gi na
+
+Mjh sy combination permutation ku nai hota
+
+Aur kis form me daini ha?
+
+Kon konsa topic choose kiya sb ne eco k liye?
+
+Me b printd ab dimagh to khrab nae k handwritn krne beth jaen! 
+
+Oye printd form me do gi na ya handwritn kr rae o????
+
+Good! DSA ka hmwrk strt kia???
+
+Acha! DSA ka hmwrk strt kr dia??? Topic kn sa slct kia tm ne???? Me soch rae hn k firms wala krn!
+
+Tm ne kr li e eco ki assignmnt???
+
+Itna nai pta mujy
+
+SE ki ma'am ki Ab tk post.nai ai 
+Ty faer mai inqar e smjhan?
+
+Kl koi quiz to nhi?
+
+Yr aik network sy ksi dosry network py balance share ho jata hy? Myny warid sy ufone py krna hy
+
+
+Pta ni kia ho rha hy aj kal, 
+Kal yaha ghar k pass aik property dealer ny suicide kr li or aj ghqr k pass he murder ho gya :( bichara larka 24-25 years ka tha :(
+
+Guys mein GCR mein hun. Late aungi
+
+Yr meri seat rakh lena!
+
+2nd semester bht Acha tha 
+
+A.a Irsa, sir ne jo ab ques krne k liye diye hn unke question numbers bta skti ho?
+
+Aj aa ry hain sb?
+
+Jo extnded hmwrk hn wo wale kn se krne hmari buk se???
+
+Yr irsa hmare pas jo DM ki buk e us me se kn se ques krne hn????
+
+Nai hota itna burden bardasht :'(
+Insan hain janwar to nai
+
+Kal coal ki lab hni e???
+
+Koi bta to do batameezon!
+
+Yr DM ne sir ne jo extnsn ki e hmwrk me wo bta do plzz! Nd link b bta do sir ka hmwrk wLa!
+
+Irsa zra apney eco ki assignment k pages to count kr k btana
+
+DM k sir Ka kya link h homewrk wala
+
+Aj GCR mai chal k sona Chandi khailyn ?????? 
+
+Irsa me a rae hn uni tm meri seat rakh lena bt plzz cntr me kahin rakhna cornerz pe na rakhna!
+
+Aj DSA ka lctr e????
+
+Ufffffff! Yr meri tbiat bhhttt khrab e to plzzz fridy ko mje aj k lctrz samjha dena! Ok???
+
+Woi to bta rae hn k tbiat bhhtt khrab e nae a skti!
+
+Yarooo hw ka kia scene hai?  Ks ka ktna hua?  Insert ni smjh aa ra :'( 
+
+If me do stringz me se greatr nd lessr ki cnditions lg skti e > ya < sign use kr k??? Nd tm ne string use ki e ya char pointr???
+
+Yr hum log tree mai linked list Ka data member bnayn gy ? 
+Friend bna k?
+
+Koi homework kr ra h ?
+
+Us k lye tmhe linked list ki class ma b copy cnstructor bnana pary ga
+
+Ma ny tou nai bnaya copy cnstructor
+
+Ye next ko check karta ha
+
+Writing nai sahi ho rhi
+
+Kal kya prhna h coal ? Ya kuch r 
+
+Irsa tmhari reading theek ho gai hy? 
+
+Hmara cursor jha hota hy us sy agly ko? 
+
+Yar irsa ye .peek function kia karta hy? 
+
+Acha thek! Tmara ho gya cmplt???
+
+Urdu ka frst word to bahr se bhejen ge ya tm ne aise nae kia???
+
+To ho ra e copy ya tm ne tree node k cnstructr me e while loop lga k copy kia e???
+
+Yr copy constrctr usi tara bnta e linklist ka js tara hm ek while loop lga k sari nodes delete krte the???
+
+Yr woi to linklist ka copy cnstrctr kese bnta e nae pta!
+
+To agr me tree node ki clas me this->listobjct = listobjct krn to argumnt wala objct dirct us ko assign ho jae ga???
+
+Irsa tm ne tree ki node wali class me linklist ka objct bnaya e ya pointr???
+
+Ye getline ki wja sy Jo \n LG jata ha Usko kese hattaun
+
+Yr ek unit to sae read ho ra e dosra masla kr ra e smaj nae aa rae k dosre pe jaon kese??? Mtlb wo srf ek time pe ek e unit read kre us ka chek kia lgaon??? Plzzz koi help kr do!
+
+Mje pre-tention de d h tum logo ne :/
+mein to ab start krne lgi hun.. ALLAH kher e kren :(
+
+Feeling in love, with strings ^-^ :D
+
+File sae read nae ho rae! :'( 
+
+Table 10.6 pe pyaar na aye to baat krna :3 <3 :D
+
+Saaray log pls, Tonny bhai k chapter 10 ka 10.7 prhlen. Jinhen maslay aa rhe hn strings k sth. Simple < > kaam krta h strings pe, evi musibat ich paaya hoya a apne aap nu :/
+strcpy, strcmp cStrings maang rhe hn, agr string k sth e krna h to <> use kro.
+
+Strcpy ka syntax kia hta e ????
+
+File kyn nai Thk read Ho ri
+
+Yr destructr kn kn si clases me bnana e???
+
+Q kr lia wa?
+
+Or ap agy mujy dy dijye ga shukria
+
+Mujy tou nai aya
+
+Oops ye mera dusra num ha galti sy gya hua ha tmhy :D
+
+Hahaha kyun k sirf tmhy hi us number sy ma ny ayk dafa DM k questions send kye thy :D
+
+Ab Irsa ka ye wala num b save krlo saray.. aglay jhatkay se pehle pehle :D
+
+Or mene usdin socha b th k tumhara num save krlun lkn phir bhool gai ya shyd ye socha k ye tumharay ghr pe kisi ka num hoga balance na honay ki wja se msh krdiya wrna tumne konsa use krna h wo bs isi liye save nhi kiya.
+
+Irsa wese ye tum kisko deadlines deti phir rhi o HW ki? :P 0.o
+
+Acha mazay ki baat pehle barra masoom sa msg aya Irsa ka k MJE TO NHI AYA YE MSG  :P madam ko khud nhi yaad th k ye apna e likha hua msg h  :D
+
+Irsa ab aap e sbko bta den k aapne kya soch k ye ghalti ki  :P :D 
+
+LO YE HUMA KI PREDICTIONS :D
+Ek se brh k ek mazay ka reply aya xD
+"Q k krney waley ko pta Tha k group me aik bndey ko pohnch gya to smjho SB ko mil jae ga :-D"
+
+Irsa, tum b naw.. :D mje pareshaan e krdiya. Log kaha kahan tk pohanch gaye Shiza kehti Sir Mubasher ne sirf tumay e programming competition mein add kiya hua th kahin uska koi msg na ho :P speedon mein damagh puri duniya phir aye :D bs sbke ek sth reply krne ka maza aya xD mein even tumay b 2 batien nhi suna sk rhi t qk msg pe msg aa rhe th xD
+
+Wese, honestly ek baat ka maza aya sirf. Wo ye k esi unity mene pehle nhi dekhi jese submission k naam pe baa-jamaat roohien fana huwien sbki xD wrna to msg kr kr khap jao, na kisi dukh mein shareek hotien hn na khushi mein ye soi hui BBiyaan  :( :P
+
+Oye loko ek min ruk ruk jao CID se zada jldi investigation shuru krdi.. farwa tk ko msg krdiya. Jb k CHOR BAGAL mein e h or Dhandora sheher mein mach gya  :D
+Ye Irsa bb k kamalaat hn. Hd hogai wese Irsa. Heartfail krne ko mein e labbi t xD
+
+Kisi ko nhi pta or tum 6 ki 6 mese kisi ko msg b nhi aya :(
+Phir mein reply krke puchti hun ab  :\
+
+Ab coal ka TA to mje msg krne se rha.. zada se zada naila baji ho skti hn lkn wo q krengi. I mean ghalti se agr hua hoga to woi ho skti hn. Jiske pass unka num h pls bta do
+
+Lo.. tum mese kisi ko nhi aaya to mje q aya? :(
+
+O mje kya pta konsa task :/
+Mein to khud pareshaan hun k kiska msg h  :(
+
+Ye msg kiska h?
+Tum mese kisi ko aya h? O_o
+
+Jis ki assignment Ho jae wo mjy dy dy 
+Shukkaria
+
+Mene nhi krni.... COAL assignment 4 ¦(
+
+Lo g nazar lg gai na weekend ko..  :'(
+Ek or assignment 
+Mam g kuch to reham krden >_<
+
+Good morning :) a weekend without homework is a great blessing :P
+
+Sabar Ka phal meetha 
+Biryani tym
+
+ALLAH Ta'ala paper mein kher e kren,  wrna damagh ki screen pe jo kuch hota h uska screen shot b lgana parna paper k sth (￣.￣)
+
+Hayeee.. Alhamdulillah, mera comma wala code b sahi chal rha h
+
+Mene abi input file change krke check ki.
+M tOo happy!! 
+Lkn ek bongi b maar k i hun :( :P
+Dangron ki trha $Unit ki jga &Unit likhvati rhi file mein :/
+Woi harkat again, k damagh mein $ e th lkn likh & diya :D Hdd hogai wese 
+
+Thora sa hua tha bs 
+
+Tu ny hi bnai ho gi :P
+
+Mama ny bnai thi 
+
+Hyshawashayyy.. :O
+Wese sahi keh rhe hn. Ab hm bachay to nhi k syntax errors b remove na kren :/
+
+Chalo, Alhamdulillah kaddi mere v changgay aagaye :P :)
+
+Baqiyon k kitnay hn? 
+
+Wo links jornay wala? 
+
+Jazak ALLAH :) jitna b theek h ab mein mazeed changes accommodate kr b nhi skti.. Bs ab ye last changes hn :@
+
+Kisi ka delete bn gya ha to bhj do :(
+
+My ang ang is peering 
+Hye mjy nai prhai krniii
+Mera weya krao Ty menu Toro 
+:'( uni life Aesi sochi b nai thi Bs fun socha tha aur Mila kya baba Ji ka thullu :( :P :(
+
+Guys, sir se pucha HW k baray mein, jo problems aa rhi t :| kuch pta chala kese krna h?
+
+AssalamUalaikum, how was the lab :P kitni der mein hojaegi? :/
+Mein to aatay e sogai t gown mein e :P ab hosh aya h or utthi hun, or ab khana khanay lgi hun :P
+
+Lf1,20,5,3,8,12,7,9,12,16,16,18,20,20,20,21,23,26,24,26,28
+
+Economics k sir ne Jo quiz laina us me MCq's hon ge?
+
+Acha. Or HW ka b jo Naila baji se pucha h wo bta dena mje.  Araam se ghr ja k. Abi to tum raastay mein hogi.
+
+Bcfjor k elawa sb
+
+Ma ny tou samjhny ki koshish hi nai ki
+
+Uni k days Mai Itni Neend q ati
+
+Ksi ko assgnmnt ki smjh ai k krna kia hai?  >_< 
+

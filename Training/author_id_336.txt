@@ -1,0 +1,230 @@
+Ma ny jo kal global arrays wali kahani sunai thi wo yei tou thi k ma ny global arrays bnai 2 ik ma sary alphabets rakh dye A-Z ur dusri global array ma 0 rakh dea har index par kyun k initialy sub ki value 0 ho gi ab jo function ha jo postfix ko evaluate kry ga wo check kry ga postfix ma kitny variables hain utny size ki 2 arrays bna dy ga ik alphabets k lye ur ayk un ki values k lye ye parallel arrays hn gi jb postfix evaluate ho jae ga to un temp arrays jo function ma bnai hain answers a jain gy un ko cmpare kro global arrays sy initialy global parallel arrays ma A ur B dono ki value 0 ho gi lekin jb cmpare kry gy to agr to jo answer aya ha un ki values diff hn gi to global arrays ma un ki value change kar dain gy to is tarha purani values retain rhain gi global ma
+
+Counter bna lo jahan b A ka ith index alphabet ho to counter ma plus 1
+
+String ma ya character array ma?
+
+Asci ka chek kese lgao??? Kisi b int me 67 rakhwa k??? 67 se strt hta na alphabetz ki asci???
+
+Yr postfix expresnz most left se solve hna strt hte hn ya most right se????
+
+Char array ko string me! Mtlb cstring ko string me!
+
+Agr char pointr ko string me chng krna o to kese kren ge! Mtlb syntax kia ho ga us ka???
+
+Expresn me kitne variablz ya alphabets bn un ka count rakhne k liye chek kia lge ga meanz alphabets ki array ka size pta krne k liye!
+
+Yr jb postfix expresn ki evaluatn kren ge to pichle expren me variablz ko jo values assign hn gi wo jb hm b hm nxt expresn pe jaen ge to destroy ho jaen gi un me save nae rahen gi to tm ne un ko save kese kia e??? Nd srf variablz waley expresnz ko kese evaluate kia e????? Plzzz jldi bta de cx me abi bhhttt buri phassi hn!
+
+Char kr k b error aa ra e!
+
+Tou hmari jan tou na na nikala karo :P wesy pta nai kb ha such ma kal hi na ho
+
+Oye nai kis ny kaha ha?
+
+Ase hi yd aa gya k adsgnmnt b thi mli hui :P
+
+Yr se ki assgnmnt kl sbmt hni kia? 
+
+Ni, Saturday ka ni a rha
+
+Plz kal koi apni USB my se ki assignment ly ay
+
+Meri or mayra ki seat rkhlena pls
+
+Date tou ma'm ny btai nai ur book k chapter ka mujy pta nai :P
+
+Yar kal dm parh lain gy ye tou weekend par b ho jae gi
+
+Phr b andazan kb sbmit krwana e??? Nd tm sb kal kr k ao ge ya free lec me mil krna e???
+
+Guyzz SE ki assignmnt kb sbmit hni e???? Nd SE ka mam ne jo parhaya tha wo buk k kn se chaptr me e????
+
+Okay ohkay people, pls calm down mje ghalat fehmi hogai t barri zor se, LOL. qk logo ne itnay seriously pucha hua th.. :P :D
+I take my words back, tussi loki pareshaan na howo :D
+Kl mil k krenge, sahi? :)
+
+Mein soch rhi t k kl mil k krlenge free lec mein,  prrr :(
+
+Ek din rest krne ka socha th... Pehle e bta dete. Mein to araam se sonay ka soch rhi t aaj :'(
+
+Haeeeeen,  kyaaaaaa?? 
+SE ki assignment kl submit krvani h? :O
+
+Hahah ni hgi kl :p
+
+Koi charger lyty Ana :( 
+
+
+Irsa aj apna DSA ka hmwrk ka code apne sth usb me le k ana me ne kch puchna e tm se! Ok????
+
+Tm log is khubsurat gali ma sy kasy guzry thy :(
+
+Yaro ye nehar ka paani kahan gya
+
+Ye btao kch parhna e aj ya nae???
+
+Me ne ki e thori bht cmplt nae ki bt table bna liye hn dono k to chek kr lena sb k thek kia hua ya nae!!
+
+Guyzz aj free hne k bd kch parhne k liye rukna e ya srf assignmnt match krni e parhna kal e???
+
+Yr jis jis ny b se ki assignment ka table bnaya hy wo kal zror ly kr aye, mjsy first wala ni bn rha
+
+Guys :( 
+Mere khalu ICU mai hain :'( 
+Heart problem bht hui v 
+Please Sb special Dua krna 
+
+
+Bohttt mushkil se :-D
+
+Match? Bnai ho gi tou match ho gi :P
+
+Mam ny kaha tha k stack ur subroutines wala sara chapter ab mujy ye nai pta k ye kn sa chapter ha ur jahan tak last chapter ma parha tha
+
+Coal ka buk ka kn sa chaptr mam ne quiz k liye dia tha???
+
+Guyzz coal nd SE k quiz ka sylabs kia e??? Nd kal class ki timng kia e???
+
+Kl lec kb ha?
+
+Aj tou nai ha na DSA ka quiz?
+
+Jis ka koi successor na ho
+
+Mam ny kaha tha k hm duration dekhty hain starting time ur ending time k lhaz sy mtlb jis activity ka starting time zero ho ga ya sub sy kam ho ga wo pahly ho gi us k bd agr ik activity time 2 par start ho rhi ha ur aik 3 par tou 2 wali pahly perform ho gi
+
+Yar jo ma'm ny table bnaya tha last lecture k start ma us ma ye sequence tha  A(0-4) B(4-5) ,C(1-2) , D(6-7) lekin ye is sequence ma perform ho gi A,C,B,D
+
+Menu nai pta kuryo lec tusi lya c ma nai
+
+Uska EF b Sb sy zyada h to wo nai decide Kry ga na project ka tym
+
+First table mai to I ka b koi successor nai
+
+Slides wala hi lagy ga phr 
+
+Yar mujy khud kuch clear nai lec tou ma ny b nai lea tha slides sy hi parha tha tm ramsha sy pucho
+
+Poochun gi us se wese
+
+To phir 3 successors wali problem arise ho gi
+
+Ramsha ne to wo formula btaya hi nae Tha Jo us ne btaya Tha us me 2 successors wali koi condition nae thi?
+
+Irsa aj se k LF waley formula ka pooch rae thi na me jis me slides waley formula aur tha Aur lecture notes wala Aur to tm ne bola k ye 2 successors k .case me ha then agar hmarey pas 3 successors ho to phir?
+
+Itni k confuse k Sath pretty lganay ka dil kia h
+
+I m pretty confused
+
+Kis ki Duration zyada ho wo nai?
+
+yr last activity Konsi h kese pta chlta h
+Mam ne kaha tha na k zaroori nai Jo table k last py h Woi last o
+
+Irsa yr last activity Konsi h kese pta chlta h
+
+Koi sE ki assignment ki pics bhj do
+
+SOoo, kon konsi MUSIBATIEN hn is weekend pe? (+_+)
+SE ka homework plus quiz. COAL ka quiz,  DSA homework plus quiz, Eco ka quiz.. Or??
+I hope, mein kuch miss nhi kr rhi shyd
+
+Herat ye h k DM k sir ne q bakhsh diya? :o wo b de dete koi ""Discrete"" sa homework!!!
+
+
+Lecture knc class my hy? 
+
+Me raste me hn aa rae hn!
+
+Class kn se room me hni e???
+
+Yr quantum ka sir ne kia btaya??? Nd sbmisn date extnd ki???
+
+3,14 hain na
+
+Han 3 e hai 
+
+Frst k ES  0,0,0,3,4,3,4,4,5,5,8,9,8
+EF 3,4,3,5,5,8,6,7,16,8,9,13,12
+
+Koi Mjh ko ye bta do k last activity Konsi hoti h wo Jis ka successor na ho ya wo jiska successor b na ho aur EF b Sb sy zyada ho 
+
+Tere bhai ne to prhi ho gi? Shyd unko Yd Ajae
+
+Mai to SE mai b confuse hun 
+Yr net b nai ara
+
+Dil e nai kr ra 
+
+Kisi ne homework kia start?
+
+Sorry 3 likhna tha
+
+Mera tou I ka b 5 ara ha ES :(
+
+I ka ef 14 ha
+
+Mai to answers match krny k liye puch ri
+
+fS 
+1,0,0,0,3,0,2,0,0,1,0,0,0
+Ye hai frst ka?
+
+Bcz ma'm ny btaya tha k ap in ka starting time dekh rhy hoty ho 
+
+2 waly ma critical activities kn kn c hain?
+
+ES ki ye values hain 0,1,1,1,3,6,3,7,9,12,12,16,18,18,3,20,21,23,23,24,26
+Ur Ef ki 
+1,3,2,3,6,10,7,9,12, 16, 13, 18, 20, 20, 5, 21, 23, 24, 24, 26, 28
+
+Sorry Q ki puchni thi
+
+Tmhy pta chaly to mujy b bta dena 
+
+Yar Q k LF lye S ka LS and R ka Ef dekhain gy?
+
+Irsa batameez shughal na lga sahi se bta de na! Tum ne kese kia e???
+
+Hr process ka strtng time zero ho ga??? Ya jo b hmara total timer chal ra ho ga us k acordng jo ae ga wo ho ga???? 
+
+Point nmbr 6 jo sir ne dia e wo smaj aya???
+
+Yr mam fatima.ka email id btana 
+
+Yr irsa critical path method kaisy bnaty hyn, yar jin ka ts zero ho wo critical hoti hyn na? But unka flow kesy bny ga? Wo to circular bn he ni rahien
+
+Yr cpm ka path linewise e draw kr Doon? Frst mai last activity I hai na to phr kya krun :(
+
+Kis ne DSA ka hmwrk strt kr dia e????
+
+Koi mjhy mam mehwish ka email.id bhj dy
+
+Yr is mai finish tym kese nikalna
+
+Ma ny abi tak sirf queue ma data read kar k usy sort kea ha ur kuch nai kea
+
+Easy thi mushkil nai thi
+
+Kaha tou sir ny yei tha :(
+
+Finish time wohi ha k jb process ka service time 0 ho jaye ga ur starting time wo jis par us ki execution start ho gi
+
+Jo point 6 ha na us ma kuch b nai us ma b sir ny sirf order ka btaya ha tou hm tou wesy hi us ko sorted way sy hi enqueu kar rhy hain
+
+Mujy ye sub farwa and naila bji ny btaya ab mujy nai pta k ye kitna thek ha :P
+
+Sir sy ma ny cnfirm karna tha sub lekin sir namaz parh rhy thy jb ma gyi
+
+2 ghari tou sakun kar ly behan 
+
+A.o.a naila api irsa here
+
+G ma ny wikipedia par b parha tha us ma b yei likha tha mtlb k agr 1 quantm k bd  us ka service time 0 nai hua means it is still running tou phr wo tail par chala jae ga??
+
+Meri ur naila bji ki cnversation 
+
+Ye kis cheez ka bta rhi o? :/
+

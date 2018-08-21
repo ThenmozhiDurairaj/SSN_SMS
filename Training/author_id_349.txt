@@ -1,0 +1,233 @@
+DM k sir ne Sb ko solid 5 diye hn 
+
+""The brain is much more active at night than during day"" :P
+Thats why DSA k sir ne hmara sona haram krdiya hua h -_- :3
+
+""The smell of the chocolate increases theta brain waves, which triggers relaxation"" ;) :D
+
+Ufff....  Ramsha ka wo chocolate wala pai :/ xD mje Abdullah ki hassi yaad aagai :D
+
+Ese e roaming krte krte optical illusions wali slides kholien mene.. Itna maza aa rha unhen dekhne ka ^_^
+Kisi din sb apni dp ek ek optical illusion na lgaen wese? :P :)
+
+Loko Coal k tasks e mail krdo.. H kisi k pass statements? Barra task krne lgi t, statements hn nhi :P
+
+Jo tum point krke gai t na k time slice ko mein hr baar original se minus krdeti t. Time left se nhi. Wo theek krke b same mistake rhi t. Qk men getter se process ki copy get ki v t. To subtract copy mein hota th temporary. Isi liye del b nhi krta th or infinite chalta th ql queue kbi empty e nhi hoti t. Uska mene setter bna k permanent changes maintain kiye to set hogya sb Alhamdulillah :) 
+
+Han, Alhamdulillah hogya th 2 bje tk. Sbbbb theek th ek itttttu c mistake t bs jis se grbr ho rhi t :P :)
+Bs jb wo sahi ki to sb sahi hogya ^_^
+
+Id ki base par bnani ha na tree?
+
+Fstream readFile;
+ReadFile.open(""records.dat"",ios::in|ios: :binary); 
+AccountRecord obj;
+ReadFile.read(reinterpret_cast<char*>(&obj),sizeof(obj));
+
+Is se ho rae tmhari file read?
+
+Koi Allah ka naik bnda  mujhey binary file se data read krney ka syntax bta day
+
+Sir ne BST b ghlt bnaya wa 
+
+File sy 2 dafa read karna ha ayk dafa tree ma insert karty ur phr specific id ki base par record ko search karty waqt?
+
+In.fail lgana tha check !in.fail nai
+
+File ka name tou records.dat ha tm ny accounts.dat kyun likha ha?
+
+Yup.. Second time record num ki basis pe krna h. Tum b fn pe aajao. Group chat mein :P
+
+Yr irsa 4.1 k hmari buk jo soft form me tm ne bheji e us me kn se ques marked hn???
+
+Ooooops me aur meri fazul mistakes :-P
+Thanks anyway :-) 
+
+Phir agar display krwana ho k Sae read kr rha k nae to bs is k bad cout<<obj.acctid kr dain gae?
+
+Apna is card Daal lyn aj
+
+Irsa ye read wala kam while (!eof) k andr hona ha na?
+
+Kisi k coal k lab task Thk.hue thy to bhj dy mjy 
+
+Bacho file read e nai ho rai
+
+Jaan nhi chhori abi tk? :@
+
+Ramsha a rae ha tmhain lainey :-P
+
+Hd h wese, hmne kaha b k class ki lrki h, lkn dheet k dheet
+
+Uncle ne abi tk aanay nhi diya? :0 kirne ajeeb log hn. Kbi intehai linient or kbi ese strict :(
+
+Pta nhi.. Hmne ki to nhi abi. Although OOP mein ki t lkn pta nhi. 
+
+Na e Ho to bhtr hai 
+
+Coal Ka quiz hai ?
+
+I think k ER diagrams hn
+
+Koi DM k questions leta aye pls..
+
+Coal ki assignment ka first task ly ana ma ny values match karni ha
+
+Yr SE ki mam ne slides to upload nae ki na???
+
+Koi middle k co ordinates bta do
+
+Asal mn net ka problem nhi h blke computer bht slow hua va h :(  restart kiya th ab sahi chal rha th.. Lkn battery muk gai :P
+
+upload ho e rhien t k battery khatam :P ab 9:00 tk wait krlo pls
+
+Kissi Ka hello wala program Seedha print Ho ra h to mjy bhj do
+
+Yar irsa tmny coal k group my strlen k liye post ki hui thi, ma'am ny koi reply kia? 
+
+Insertion id ki base p krwani ya record number?
+
+Huma eco ka regster ly ana plz
+
+Aj kya karna ha last lecture ma?
+
+Got Aik bjy wala point :)
+
+Han mjy dy dyn :P
+
+Hd hogai shiza :0 loko saara kuch chhoro ab pehle shiza k liye dhundo koi :P bechari bachi itna frustated h is parhai se k hath dhulvanay k bahanay hath peelay krvanay ki iltajaen kr rhi h xD
+
+Lo g, ""yak na shud 2 shud"" :0 ab shiza madam k liye b koi dhundna parega :D
+
+Lo g arfa madam ko is wqt SHAZ O NADIR yaad aa rhe :P keh rhi h mjse khud nhi khaya jaa rha xD
+
+Koi mrry haath dhula dy ta k me khana kha lun :p 
+
+Koi khana khila dy :( khud khant ka dil ni chah rha :(
+
+Tum mese kis kiske HW 3 mein achay marx hn?
+getters/setters nhi bnaye na?
+
+Aj meri seat rakh lena me shaid late ho jaon nd corner wAli seat na rakhna plzz!
+
+Seekg() use kiya ha tm ne?
+
+Kisi ka task 4 hua e????
+
+Koi to bta do batameezon ya coal ki lab e snd kr do!
+
+Jldi bta do plzzz!
+
+Coal k task 4 me alphabeticaly print ktwana e to frst letr us k sth e print krwaen ge na jo string me frst pe ae ga chage wo alphabeticaly last wale se bara ho mtlb alphabeticaly last wale k baad ae???
+
+Sb Paise ly k Ana
+
+Han ye to ha :-(
+
+Good ho gya ye to :-P
+
+Tmhara chla Tha k koi nae?
+
+Mera to WO Kuch display hi nae krwata 
+
+Coal ki assignment task 2 complete ho gya?
+
+Aj abhi nae maloom daikhtey han Kya krna
+
+Chlo koi nae kl lay aun gi
+
+Me to bus me hun ab 
+
+Dono ques hard form me na?? Nd ques 2 me strlen use kia???
+
+Guyzz coal ki assignmnt soft form me do ge ya hard form me???
+
+Bacho soft mai krwa ry o 2nd task k hard mai ?
+
+Koi middle k co ordinates bta dooooo
+
+
+Irsa plzzz mje jldi DM k ques bta do jo buk tm ne mail ki e us me se cx huma ne jo picx snd ki hn un me kia ques likha e kch smaj nae aa ra!
+
+Ye Pprs ki timing Swa 11 h?
+
+Last lecture lena ha S.E ka?
+
+Sorry for late reply actually kal ma soyi hui thi :P
+
+5.1 (3,7,21,13,33)
+5.2 (1,2)
+6.1(3, 11,13,16.17,33.37, 41,55)
+6.2 (3,5,13,17,31,35)
+6.3 (3,11,17,19,22,25, 31,33,37)
+
+Yr meri seat rakh lena late ho jaon gi! 
+
+Kuch ki to pucs lay li hui han me ne pehley us se next ki Laini han
+
+Irsa apney SE k notes laiti ana
+
+In ma sy kisi ayk par likhna ha? Kahin sy b?
+
+Eco topics
+1-Comparative study of eco definition 
+2-theory of demand and supply and determination 
+3- elasticity of demand and it's practical importance 
+4- perfect competition and eg of firms + industry in s.r and L. R
+5- monopoly and monoplist competition 
+
+Ni pta, shayad zainab ny sir sy pucha tha to wo keh rahy thy k aik week, aik week k hisab sy tuesday bnta hy
+
+Wo jo hmari ho gi wo tyari ho gi? :P 
+
+Ma b yei puchny wali thi :P mujy tou sary hi fazul lag rhy :/
+
+Guys,  mje group mein HW5 nhi mila :(
+Wese mene aaj dubara nhi dekha. Abi dekhti hun. Wrna agr koi kr skta h to pls msg krdo fb pe
+
+Haan ek se brh k ek fazul hai .. me soch ri finals wla hi koi topic kr lty hain is tra kch eco ki tyari b ho jygi :p
+
+Eco ki assgnmnt ka kch socha hai ksi ne? Knsa topic select krna chaye 
+
+C.R keh rha ha k tuesday ko krani ha
+
+Ye mujy arfa ny kaha
+
+Tuesday ko sir ny announce kiya tha and ayk week ka kaha tha
+
+Sorry ye maira ko karna tha
+
+Ma ny tou hath b nai lgaya :P
+
+Eco ka Thursday ko dena h ya Tuesday mje koi ek baat bta de :/
+
+Insertion nhi smjh aa rhi 
+
+Pta nae us ne jo mje me ne bta dia!
+
+Yr huma keh rae e k sir ne nxt week k last lec tk ka kaha tha!
+
+Haha acha :P
+Oh, eco ki assignmnt Tuesday ko deni h? :0 usne mje Thursday btaya :/
+
+Huma keh rae e k thrsdy ko sbmit krwana e!
+
+Kya tuesday ko? :P
+
+HW 05 ne damagh paka diya mera...
+
+Yr eco ki assignmnt kb sbmit krwani e????
+
+Allah ka shukr e!
+
+Guyzz DM ka hmwrk agey mil gya e ya nae???
+
+Azeem bhai ki shadi ki movie and pics :)
+
+Single sided 10 na???
+
+Yr lngth kitni rakhni e eco ki assignmnt ki?????
+
+Eco hand written krni ya printed
+
+Huma wali pix is baar bht clear nhi hn DM ki. Agr possible ho to pls mje apni book k hisaab se question numbers bta do. Kuch mein confusion aa rhi h

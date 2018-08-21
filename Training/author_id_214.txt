@@ -1,0 +1,438 @@
+Mohsin tu naa hi aa janga vay tu aya tay saray pokhay rain java gay.... Tu na aa samjaya..
+
+10 responces ae ha muje
+
+Reached home bhaio
+
+Rd hm bhaiyo... £ove u all ... Ummahh.. 
+Baby teray hatho may jado hy... Bht a6a laga bht maza aya... And sana once again congrts..
+
+Yr dell 5537 i7 4th generation ka rate pta kr ke bta
+
+Me g0rmnt ki bkry pe khara un aja am waiting
+
+Apni email send kar
+
+Kider gaeb hagae hoo
+
+Or jinab kia haal chal ha
+
+Bus krm ha Allah ka
+
+Yr aj presentation itni achi nai hoi
+
+Bus yr stage PR ja ke Sab bhool gea tha
+
+Yr kamino ne start mujh SE lia tha
+
+Aj 4 baje waqas ki taraf ajana
+
+Late na hona lazmi ana
+
+Aj ka program paka ha Ali or omer ko bhi lete ana
+
+Suker ha Allah ka ap sunao
+
+Power point ki assignment banai
+
+Tahir yr kider ha cafey mea wait karaha hoo
+
+Yr mea SB SE uper beatha va hoo uder aja
+
+Yr kider hoo a bhi jao
+
+Meane admin office baat hoi ha who khe rahe ha Wednesday ko bhi hojae gi
+
+Yr eng ke notes ki samaj ae
+
+Oye hamza ate v apna result card lete ana
+
+Viki ko bhi meane khe dia ha
+
+17 ko ha time kafi mil gea ha
+
+Ja paki baat ha nai tu khud pata krle
+
+Yr tumhara net araha ha
+
+Kam ko karna tha meane  who hogea ha
+
+Wednesday ko aram SE sare document le ke ajana 
+
+Canon ka konsa model ha
+
+Hmmm kitne ka ha printer
+
+Ghar rakhe ga ke ider le ke ae ga hostel me
+
+All in one ha ke simple
+
+Mera net 10day ke lie off ha
+
+Mera tu mashwara ha ghar rakh
+
+Yr 6or7 program bana
+
+Nai hoye ga koi bolda vi nai ... Aikthay ho kr saray enj plan banaday nay jivay haftay vich 3 dafa milna vay ...
+
+Wah g wah mashAllah ballay ballay shava vi shava mohsin ki job mil gai bhai bht bht bht mubarak ho Allah kray tu hamesha din dogni aur rat chugni tarqi kray ameen .... Tha tha tha tha tha
+
+dosti swy yaad aya.. bc tere pass 120 rps b nhi dost ko apni bday ki treat dyne k liay jabke i wished u in advance.. anywe apna apna level hta h dosti ka 
+
+Bus pay Milne de khali tuje nai deni or bhi bare umeedwar ha
+
+Aj 3.4 ke 23 sawal kie ha or ITC ki revion
+
+hahaha.. chal theek h.. dhaktay hain mazay ka level 
+
+Yr muje continuity ka thorax samjhana ha
+
+Yr jab time mily to headings send kar dae 
+
+ Hahahahahahahahahaahahaa 
+7 bje
+Hahahahahahahahahaahahaa 
+Kya kaha baba 7 bje bakhshi ki trf hoga
+Hahahahahahahahahaahahaa
+
+Owe lecture start ho gay h lkidr h tu
+
+Mam bhe a gye hain 
+
+Tendenc lagarahi ha
+
+Yr waqas ke 2no number send kr
+
+Chal yehi krde filhal
+
+Yr (a+b)3 ka formula send kr
+
+KIA tum be math Nai para
+
+Baba ji 17 ko paper ha
+
+Thora time mil gea ha
+
+Ha yr thori jaan me jaan ae 
+
+Yr Allah ki taraf SE time mil gea ha ab zaya nai karna
+
+Cr ne group me post kia ha fb ki
+
+ndard C++ANSI C++Output
+ 
+
+#include<iostream.h>
+#include<conio.h>
+
+int main()
+{
+int sub1,sub2,sub3,sub4,sub5,percentage;
+cout<<""Enter marks of five subjects : "";
+cin>>sub1>>sub2>>sub3>>sub4>>sub5;
+percentage=(sub1+sub2+sub3+sub4+sub5)/5;
+
+if(percentage>=60)
+cout<<""Ist division"";
+else if(percentage>=50)
+cout<<""IInd division"";
+else if(percentage>=40)
+cout<<""IIIrd division"";
+else
+cout<<""Fail"" ;
+
+getch();
+return 0;
+}
+
+Yr Viki aj laptop dikhane Jana ha hafizcentet
+
+Kdr gum hotay h0 jnb sunday ko ali ki taraf ana hy ap nay dawat hy 4 bajay koi bahana nai chalay ga ... 
+
+Yr kdo milna vay aur kithay milna vay ... Sana rola tay bara paya hoya si 
+
+Bht harami ho sb plan bana lenday nay das day nai ana vay k nai.... 
+
+Meray walo jawab ae ... Aan da
+
+Yr wapsi  PR DSL cable late ana
+
+Yr neache koi bhi nai ha
+
+Lapt0p le k meri trf a,charger lta i
+
+Kider ha upr ne neache
+
+O g o a gai ay hosh k dost v hy ny
+
+O g o baba gud sidhi bt no bkwas
+
+Hahahag.aha yr mazak ty na kro
+
+Hahahahaha yr fahem tu bht shugli hy
+
+Hahahahahahaha fahem bs kr mera ty hasa e ni ruk rya ali ty 8 vjy baby di trf hahahahahaga
+
+Yr ki chandy o tusi sary
+
+Yr kun sary ali bn ry o
+
+Thek hy phr sb gol bag mile kia khty ho kn kn ok hy
+
+Thek hy sb gol bcg phncho abi main nikal rha ho gr sy ap b ajao
+
+Thek hy bhaio fahem baba or mirza ok hain gol bag phncho main nikal chuka ho gr sy ap b phncho wo sharbat wale k samny
+
+Fahem ali or baba apna apna time btao any ka
+
+Main to ja rha ho gol bag or mirza b a rha hy
+
+Bhaio main gol bag phnch chuka ho no one is there
+
+Paen g pichli dafa v sb tho phly baby ny ans kita c yani k baba tu ni ana
+
+Ali.mirza.fahem.bhai mian. Twada koi ans ni sharam kro mhsin islamabd tho msg kr rya ay ty twada koi ata pta e ni
+
+Lo g baba or mirza ok
+
+Ali.fahem bhai mian jwb diyo ni ty jwab diyo
+
+Yr Tahir Viki ka koi dost civil me nai ha
+
+Yr program bna leye he
+
+Yr temperature vale pic theak nai aye
+
+Vo dobara send kar do
+
+Yar mere assiment Le ana
+
+Bcs02143037
+Password=Muhammad ali 
+Yar es ka admit card nekal lana yaad se
+
+Mujhe apna registration no dobara. Bhej
+
+Yar sare number delete ho gaye be es leye pocha he
+
+Meri trf se ok karooo...!!!
+
+Its ok late sahi but aa jana
+
+Thnkxx to u on this behalf be happy
+
+Us SE 8000 rupea le ke chor dia ha
+
+Meri attendance lagwa dena...
+
+Yr Kal pay mile GI ke nai
+
+Yr jis sir ko SMS karne ha us ka no send karna
+
+Bro topic tayar kar lia
+
+butt sb laptop change ho gaya
+
+jnb kaya ho raha ha
+
+imtiaz k pass ni jana
+
+Bike ko punkcher lagwaraha hoo
+
+Waleed print ha ke nikal di
+
+Yar me to shaikupura aya huwa hu
+
+Yr Imtiaz SE suba ka time le lena
+
+Phir Monday ko done krle
+
+Dekh ly kal mery guest a rahY hain un sy free hu k a jao ga
+
+Ager nai a asakta tu Monday ka rakh le
+
+Ha Monday ka sai rahy ga
+
+OK thanks meri viki sy bat hui hy  wo kh rha hy  ak long Anna hy 
+
+Hmmm job karaha ha ke nai
+
+"Hmm
+B'day celebrate kr rhe ho?"
+
+Yar mjhy subha uni lety jao gy?
+
+Hn b aj b milny ka mud ha kisi ka k koi ni.k sb thak gy ho.ya dil ni krta ab milny ko.ya zarurt sy zeada bzi ho sb k sb. .
+
+Yr kal meane Vicki or Aziz ne Jana ha
+
+Kha gum the rply nh kia?
+
+Pata nae jan kion hmary sath e aisa hota
+
+Yr kal sai ye galti se hogea tha
+
+Rst ko waqas nay ana ha mrri trf aa jana agr ana ha to
+
+Yr Monday ko hum log ae ge
+
+Dear rana town ap k pas hai?
+
+Or sone kia haal chal ha
+
+Pee to ni lye tmne jo wrong sms phenk rha hai.
+
+ALLAH KA SHUKAR tu suna.
+
+Bus karm ha Allah ka b.com clear how's tera
+
+Kl jana hai interview ke lye.
+
+Office ja ke search kr Google. Pr
+
+o yar hamare garam kapre tou de ja.. 
+
+oo mamay.. haamre kapre n upers de ja...  
+
+repli krtay waqt mout ku prti h tujhe 
+
+Beta nave sms kr mere mujhe name bhej
+
+Sale peyasa kuwe ke pass ata ha hamre mid hora he ha
+
+sardi full heavy ho gai h.. bc kapre tere traf hain garam.. saddi wajji pri h sardi ki wja se 
+
+Chal koi nai memory refresh kar ly
+
+20% he hain. 80 % leyna final mn 
+
+how to tak warid loan ?? jaldi bta 
+
+petrol k paisay le lyna mujse car k.. i wud pay u.. aja mre traf 
+
+bike pr kapre kese le kr aa ay ga ??? 
+
+ Yr apna PTCL no send krna
+ 
+Rana sb nay mojy bata diya hai
+
+Yr mea bike chala raha tha or phone silent PR is waja SE pick nai kar paya  aj sham ko mujh SE lazmi le Jana yr
+
+ Yr aj estimate le Jana rana Sab ka
+ 
+Yr mera package nai ha hamza
+
+Ok ma bls karwa ta ho 
+
+Ye 3.30 tk jafera bad aja copy kara le ge meane bhi copy karani ha
+
+ OK mujhe chaheye the chal koi nai
+ 
+Yr pak study ke notes ha tumhre pass
+
+Nai thori si banai ha baqi suba uni me
+
+OK mea ghar ja ke krta hoo
+
+Yar Tuesday  ko math wali copy late ana
+
+Kya plan hai g aj ka
+
+Ha bi kider gum ha
+
+Ake bell marna meane phone band jar dia ha
+
+Ameen waqai maza aa gia wah g wah kia thandi bottle hy pe rah hu main lvly mall bi utar wah raha hu
+
+"Reached home mere bhaiyo or behno
+
+Ap k pyar ka bohat bohat shukriyaaaa
+
+Sb kuch bohat acha bna tha 
+
+or sb se zyada ap sb ka pyar bohat acha laga"
+
+Wo jb ma forwrd text krta ho to list ma krta ho or ya bi ap ka nam sy i save tha mry pas num and sory bhai
+
+Ppsc ka msg aya ha ap ko?
+
+Pata nai leakin mujhe agea ha
+
+Sunday ko paper ha mera suker ha chuti wale din ha
+
+Chal mubarik hoo khoob mhenat karna
+
+Ase moqe bar bar nai ate 
+
+OK Sari computer science likh kr aoo ga civil me
+
+Ha keo nai mujhe mana ha ager job multi ha tu parhai kickass
+
+Hahahahaha akhty chly gy.
+
+OK boss bus SMS kar Deana mea ajao ga lene
+
+Ha insha Allah kio nai
+
+Or Bhai jaan kia haal chal a
+
+Allah ka karm ha or sunao koi nai tazi
+
+Kia horaha ha aj kal
+
+B.com tumhara clear howa ke nai
+
+Kis jaga job karAhe hoo
+
+Yr ye tu mere ghar ke pass ha ksbi chaker hi laga lia kar
+
+Yr Hume ppsc ka sms agea hs 1 saal bad
+
+Ab Allah kare paper Asan hoo 
+
+Aj suba aya ha 10 baje ke qarreb
+
+Waqas ki suna mere Jane ke bad gadi nasheen ban gea ha
+
+Ha suna haa thekedaro ki line lagi hoti ha
+
+Bus yr mea tu bscs me tang phasa ke beatha ho
+
+Nai yar har day ki different timing ha
+
+Bus Friday or Saturday ko khapna parta ha
+
+Who is lie ke 5 baje ke bad jaan chuti ha
+
+Sha ji Kal yad SE mera kam karna ha bholna mat
+
+Chal phir bad me baat hoti ha 
+
+Sirf ha se kam nai chale ga kar ke ana ha or Waleed ko bhi yad karana
+
+Yr strike bht ho rahi ha kasy aon kal aon ga
+
+Wo e pta krne ja ra un
+
+Sale jb need hote ha tb koi reply nai or ab karaha ha
+
+Acha or suna kya hal chal hai study ki suna kese chal rhe hai.
+
+OK zaror Allah pak ap ko ache numbero se pass kare take hum axhi SE treat kha sake
+
+Chal phir teyari kar ab kisi subject ko easy na leana
+
+Viki kal chuti ha kia
+
+Chal kal ja ke deakh le ge kon SE dor Jana ha
+
+Kal suba suba nikal ana
+
+Ho kider  is waqt tum log
+
+Yr hamari tu society ha yaha khamoshi chai v ha full time
+
+Bus me esi jaga rhena jaha asani SE nikal sako
+
+Light gae v ha ati ha tu batata hoo
+

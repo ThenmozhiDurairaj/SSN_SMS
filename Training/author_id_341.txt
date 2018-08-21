@@ -1,0 +1,243 @@
+Saanu v dassna kL
+
+
+Irsu Naila baji keh ryn k contact kr lo un sy unho ne HW ka kuch btana h
+
+Ab economics parhny ka dil nai kar rha :(
+
+Ma ny mail kar di ha lab
+
+Input file ha na?
+
+Hmwork tou wesy b thursday ko krana
+
+Overall hi 60 highest hain tmhary kitny hain? Mujy to ye pta tha k tmhary mujh sy zada hain
+
+Wah Irsa, tumne code bheja h ya jadui mantar :P pehle shetan aya hua th zehan mein k ""barra tym lgega"", ""mjse nhi hona is wqt"", ""chhaapa lga leti hun"", bla bla...  Ab tumhari mail ne recharge krdiya h :D logix b bn rhi hn jldi, jldi. Maza b aa rha h or dil b kr rha h :P bs support mil gai na k na aya to dekhlungi :P
+
+Mere 54 or waqai mene bs highest dekhe th wo boys se th to mene girls mein socha e nhi. I think 54 e hn girls mein.
+
+Loko kl DM dey paper v milnay :v :D :P
+
+Tmhary 56 nai hain? 2 num barhy b tou thy
+
+Irsa zunaira k pas ni hy tnhari usb
+
+Wese sir meri baat maan jayn gy ? :P
+
+Chalo g aaj wo namuna b tapak parra th. Acha hua mein nhi t aaj. Mjse puchtay to mje specially tupppp charh jani t :@ :P
+Or bht acha kiya jo mera nhi btaya -_- oye wese,  waqai girls mein 60 highest hn?? :0 mennu aap nhi c pta :D
+
+Ku? Ub to parho beta, submission date b agy ho gai hy
+
+Haha, q khushi k maaray? :P
+
+Achaaa.. Sahi  h. Smj aagai.
+JazakAllah Irsa :') :*
+
+Haha shehzadi lgi 
+Mai DMU py hun Bs naam e kr rai hun :P
+
+Insert cursor pe krna h.. Iska mtlb wo kahin b beech mein insert hoga na. Last pe to nhi na?
+
+Han shukar thori tention release hui h. Lkn krna to aaj se e prna h.
+Acha mje jo problems aa rhi hn lab mein. Mein tumhara sr khaungi phir :(
+
+Mje to HW krne se zada HW samajhna azaab lg rha h :'(
+
+Mtlb k smjh to Agai v ha humko 
+
+Aaj ka lab ka code send kr skti o if convenient. M fed up.. Abi lab ka nhi hua, HW to mje pagal kr rha h :'(
+Or eco b rehta h..
+
+Bachon my ubi tk gown my hun :P
+Soi hui thi :P ubi uthi, tm soch ni sakty k kitni khush hu, coz of extension in hw submission 
+
+Wo using new operator mujy koi object bnany hi nai dy rha struct ka
+
+Mera using struct insert nai ho rha linked list ma
+
+Ma udhar hi tou phansi hn
+
+Yar jb hm linked list ma koi b process bnaty hain to enqueue aisy hi karty hain na ik pointer bna lety hain process type ka ur ik new node bna kar us ka address pointer ko return kar dety hain ye kam using struct kasy ho ga?
+
+Agr class bnaun tou sara kam queue k ander karna pary ga :/
+
+ yr  sir ny tree ki practice k liye jo data diya tha, yr wo send kr do plz, myny note ni kr ski wo
+
+
+
+Hmm :( ye saray sayapay to mene sochay b nhi th :((
+
+Irsa, sorry.. Thora busy hogai t. Hui problem solve?
+
+:( sirf A ki output thk arai
+
+Tu struct.mai na bna koi constructor type chz dot sy access kro
+
+New operator.kya hai
+
+Main mai.chl ra queue ki.class mai nai Chl ra
+
+Mera main.mai to Chl ra hai queue ki class mai nai :(
+
+Koi apna insert ka function donate kr do
+
+Struct to data ki jga use ho ga na 
+
+Struct mein add node ka function bnao. Jisme constructor ki trha cheezen pass kro
+
+Han ye to h.. :(
+Mera to aaj kaam krne ko dil e nhi kr rha.. Sonay ka dil kr rha h bs :((
+
+Acha.. Ab smjhi.. Mje nhi lgta struct constructors allow krta h.. Iske liye constructor jesa function bna lo. Ya struct k bjaye isay class bna lo :/
+
+Tumnay process ki array bnani h?  Ya object? 
+
+Search krlo.. Constructor ka
+
+Syntax btao jahan error aa rha h?
+
+Kya mtlb kahan problem aa rhi h? 
+
+#NAME?
+
+Waqai... Fazul labs or fazul tareen TAs >_< kya bnega mrx ka :'(
+
+G nhi, m not missing any weekend. Uni mein weekend mtlb k sr ka drd :((
+
+Hahahahaha, aj weekend ko ku miss kr ri ho? :P
+
+Haye sakoon has come to me :P
+
+G usay ap wapis end py dal doge.bt agr usnay end py jana hai nd usi tym ek process ka arrival tym hojata to phle arrival tym wala add hoga then wo
+
+Mujy tou ye zada easy lga ha :D 
+
+Nalaiki ki hadd dekho dequeue b sahi sy nai kra rhi ur mazlum ban kar keh rhi hn ye memory leakage  pta nai kyun ho rhi :P
+
+Average waiting time 2 and turn around time 4?
+
+Han dot lga kar
+
+Yar jb tm is array k objects ko enqueue karo jaisy start ma A ur B enquequ kye to front par B a gya ab agr tm ny B ki values ko acces karna ha to 
+Front->arrivaltime
+Aisy likho to tm B ka arrival time acess kar lo gi agr B front par ha
+
+Yar tm tm aisy hi kar rhi ho na k pahly B execute ho ga phr wo tail par chala jae ga to A front par a jaye ga?
+
+Data tmhary struct ka name ha?
+
+Yar tm us ko temporary variable ma store kar k phr decrement kar rhi ho to obviously original waly ko to koi fark nai pary ga :) aisy karo
+Front->data.cur--
+
+Wesy tm sub ny kitni classes bnai hain :( ma ny to nai bnai ye cnod wali class :P
+
+Thori improvement hui answer me ab phir debug krti hun :-)
+
+Haha bs jesa sir ne prhaya usi ko socha itnay achey ideas nae atey na dimagh me
+
+Debug krney se error to pta chl RHA mujhey PR htaun kese nae smJh a rga
+
+Data struct type ka ha
+
+Nae cnode class ka
+
+Pr saaf pta chl RHA k Jo front p current time hoga ye usey hi access krey ga
+
+Aisey kiya ha me ne
+Service=front_>data.curServTime;
+Service = service-quantum
+If(service ==0)......
+
+Yr  tm smajh rae ho na wese me kya kehna chah rae hun 
+
+Matlab jb dobara execute honey k liye ata ha to cur service time phir 3 hi hoga although pehli dfa execution p WO 2 ho chuka tha
+
+Wohi masla permanent change nae kr RHA 
+
+Okay krti hun ab himmat phir se
+
+Okay thanks mujh pr itna sr khpaney k liye
+
+Rabba utha lay mujhey in home works se Jan chootey meri 
+
+Aur abhi to tm keh rae thi k dot LGA kr krna ha
+
+Pr main me front access nae hoga
+
+Array me me ne b rkhwaya phir usko sort kiya ab ye array surf enqueue krwatey hue use hogi ya execution time wghaira li value access krney me b koi role play krey GI?
+
+Garbage day rha tha khair ab light ae GI to krun GI dobara
+
+Phir constructor me b change aye ga na
+
+Coal ka dil nai kr ra :( neend Agai ha 
+
+Meri nalaiqiyaan nhi pta tumay :( :P
+
+Chalo achi baat h agr easily hogya :) changes wese b mt krna ain tym pe :/
+
+Mene to template tk hata diya th queue mese. Simple bnai :P
+
+Bndi kya kya sochti rehti o okhay solutions :P
+
+Hyshawashay.. Yani k struct type ki queue :0 :P
+
+Han node class jese hoti h
+
+Han struct to bn'na e h
+
+Enqueue sahi ho gya ab srf averg print nae kra ra baqi sb krwa ra e!
+
+Yr irsa tum ne enqueue ka fnctn kese likha e??? Mera enqueue e problm kr ra e!
+
+Yr irsa tum ne jb temp me front ko store kra k rear pe move kraya e to baad me front ko nxt pe move krne k baad temp ko delete kia e ya nae???
+
+Fatima.shahid Ho ga not confirmed
+
+Mjy nai pta
+
+3rd kya tha task ?
+
+Coal krny lgi thi us k swal e nai hain
+
+Coal k lab tasks k sawal b kr do.koi send
+
+Ma tou so rhi thi bus ma :P
+
+Nai khula tmhara huma :( :P
+
+Ho gya tha tmhara thek huda?
+
+Khuda ki qasam :'( nai prha jata >_<
+
+Lol.. Jazbaat mein aa k yaad nhi rha k light, bijli ek e cheez k naam hn :P
+Ignore pls, smjho emphasize kiya h B) xD
+
+Guys, mje zara sort out krke btana k sirf kl k liye kya kya krna h.. :( :P Kuch nhi kiya abi, or aaj b ek jga invited hn. Ab aa k e krungi kaam :(
+
+G nhi, na light na bijli na paani.. 
+Phir b dil h PAKISTANI
+(￣.￣)
+
+N yess, pls DM wali beebiyon pix jldi upload krdo.. :( :P
+
+Guyzz plZzzzzzzz koi DM k ques ki picx upload kr do!
+
+Light ai hi nae rat se Kya badtameezi ha 
+
+Guyzz tm sb me se kisi k ggr lite aa rae e????
+
+Irsa kl light ka wait krtey krtey so hi gae me ab uthi hun again light ka wait kr rae -_- ,ati ha to question mark kr k send krun gi 
+
+Lo ki coal ki assignment
+
+Yr mje DM ki buk mail kr do plzzzzzz!
+
+Koi Mam Fatima ka id bta do
+
+Yr irsa coal ka task daikh do, largest find ho jata hy but print ni ho rha :(
+
+Late hojaungi, seat rkhna
+

@@ -1,0 +1,298 @@
+Nhi nhi, abi mind krna khatarnaak h, pehle papers to mil jaen achay achay ;) :D 
+
+DSA to achi h, mtlb th high five simulator -_- 
+
+Han, ab or koi raast h b nhi :( 
+
+High five DSA 
+
+To ab kya krun??? :'( 
+zara sa kro phir atak jata h -_- 
+pehle lgta h smjh agya, bd mein pta lgta h k kuch b smj mein nhi aya >_< 
+tbi to sir se b nhi pucha th.. Qk lg rha th yei h.
+
+I'll go mad NOW....!!!
+
+Baycharay masoom bachay :'( 
+
+Oh, acha ye peshawar walay waqye ki wja se h :(
+mein smjhi phir se IK ko dora parra :P 
+
+Loko schools off ho rhe hn :P saada v fer off?? :D
+
+Yr plz kal sb homewrk kr k Jana...
+Mjy kakh smjh nai ara
+
+Guys, file empty h k nhi.. Isko kese check krna h??
+iska b koi function hoga.. Kisi ko aata h??
+mere pass net b nhi k search krlun :(
+koi search kre to bta de..
+
+Peshawer aik school me blast,84 stdnts shaheed :'( 
+
+Room 36 my a jao, wha class hy
+
+Guyzz DSA ka hmwrk kitna hua???
+
+Mera bs ye file empty wala major problem h, baqi chhoti moti bongiyan b hongi lkn filhal chal jaega kaam :P 
+
+Yei to masla h k net nhi h :( 
+ya to ab mein kl lab mein krunn..
+koi idea nhi syntax ka? :P 
+
+Hogya wese sara?
+
+Mein to sonay lgi hun ab.. Mazeed nhi khapa ja rha. In logo ka irada to eco bunk krne ka h :P
+
+Kese bnana h.. Mje seekg tellg nhi aatay. I mean inka syntax wghera :( 
+
+File empty h k nhi, ye kese check kiya?
+
+Nai ma ny ye function bnaya ha na to us ma agr length zero ho to ma true return kra deti hn mtlb k file empty ha otherwise false
+
+Wesy agr mujh sy hona hua to aj hi ho jae ga ur agr na hna hua to bunk mar k b nai hna :/ 
+
+Agr tmhara chal jae to zara mujhe output ki values bta dena i think wo to same hi ani chahye :( 
+
+Mein to bs sonay lgi.. Light b chali gai ab dil nhi kr rha :| 
+
+Hmm.. Lkn kuch chotay motay maslay jo khud nhi hotay sahi, wo discuss krke hojatay hn. Baqi major portion to ofcourse abi krke e sona h.
+
+Wese mene ab hibernate krdiya hua :/ pehle btati..
+chalo wait :P 
+
+Tum apni send kro
+mein apni krti hun
+
+Errors to mere b hain :( 
+kya chal e nhi rha?
+
+Apni values bta do agr match krti hn to mje kuch tasalli hojaye.. :P 
+Mje ab yad aya avg times to nikalay nhi :( 
+
+Output ki values mein abi b bta skti hun qk mene filhal check ko comment kiya hua h.
+
+Han, mene b yei syntax dekha th.. Lkn pallay kuch nhi parra th. Acha ye true ya false return krta h?
+
+Hmm Allah Karay :P 
+
+Arfa ki b yei output :) 
+
+Mera end pe garbage b print ho rha h :( 
+jb tk empty ka check nhi lgna kuch smjh nhi aani.
+
+Bs 2?? =-O 
+baqiiii? :P 
+
+Han, mene b yei syntax dekha th.. Lkn pallay kuch nhi parra th. Acha ye true ya false return krta h?
+
+File empty h k nhi, ye kese check kiya?
+
+Han.. To mene count nhi rkha blke, struct mein e arrival time ka b variable bna liya, jb b file read hoti b wo arrival time ko total time assign krdeti hm
+
+Nhi lgaya.. Q lgana?
+
+Mtlb jo sir ne diya hua h woi h
+
+Oye guya, waiting tym ka formula seedha to h, woi jo mein bta rhi t woi to h.. Pta nhi q damagh paghal hua va h. Ek dfa kuch lgta h or ek dfa kuch :( 
+Sorry guys, seedha krlo :P 
+
+Start time to zero hua aur arrival b zero hua to 8 kese aya ?
+
+Yr ye Jo sir ne example di ha is me waiting time 8 kese a gya ha?
+
+Guys, jisko ab b na smjh aye wo ramsha se b puch skta h..
+
+Or ek or baat k waiting tym ka formula ulta h.. uspe ya to check lgao k jb b less than zero tym aye multiply b -1 qk tym can nvr b ngtv. Ya formula seedha krke use kro
+
+Execution start tym hr job ka zero nhi hoga, blke jis tym pe exe start hui wo hoga, yani hm total timer dekhenge is case mein
+
+Ye woi h jo sir b hme smjhanay ki nakaam koshish kr rhe th :P 
+
+Yr mai scarf lyty wy soch e rai thi k sb ko kahun gi k koi ly aye
+
+Aik nai 2 pins
+
+Haha, Okay. Bs bhulun na to :P
+
+Guys Note dubara parho.. Ab smjh mein aya!!!
+
+Yr waitng time ka formula woi rehna e chng ho jae ga?????
+
+Hmne decide kiya th k execution start time hr process ka zero rakhenge or arrival time wo hoga jb process head pe aega. Lkn waiting time = exeStartTym - arrival tym. To exeStartTym to phir 0 nhi ho skta.. Wrna ngtv hojaega waiting time :(
+
+or agr start time b woi h jis time pe exec start hogi to phir arrival time kya hoga? >_< 
+
+Guyzz DSA ka hmwrk kitna hua???
+
+File se read krne k liye agr array k bjaye string k thru read krna ho to konsa function use krenge? getline string nhi le rha :(
+
+Paper ki waja sy ya assignment??
+
+Mjy DSA nai prhni nai prhni nai prhni :'(
+Sir ko meri nazron sy door rkho :'(
+
+Guys, processes ko queue mein e highest exe time k hisaab se sort krke enqueue krna h ya bd mein execute krte hue check lgaen? :/
+or pls reply krdya kro loko :( :( 
+
+Mje smjh mein nhi aa rha h kuch b.. (._."") 
+
+Guys, HW mein file se read krne k bd data queue mein rkh k file empty krdeni h??
+
+Kisi sy file read ho to plz bta dy
+
+Acha mujhey to koi information nae ha even I've no idea about Monday k Kya hona ha ya Kya ho RHA aj news daukhun gi :-D 
+
+Yani phir kl koi nhi ja rha na?
+
+Naaa ammi g ne mna kr dya 
+
+Mje to kisi ne kuch nhi btaya, jana h to mein aajaungi, nhi jana to ballay ballay :P 
+
+Paper checking ki wja sy
+
+Guyzz kal SE ka makeup lctr e??? Timing kia e lctr ki????
+
+SE Ku nai lia 
+Monday ko quiz b hai 
+
+Hwww lab lena to yad e nhi rha mje =-O :'( 
+mene homewrk le lya lab q bhul gai :'( 
+
+Mein nhiiiiii :'( 
+
+Kis cheez ka? :( 
+
+aaj wala :( 
+
+Pta nhi, likha to tuesday h.
+
+Guyz js k pas DSA ki lab e wo fb pe upload kr dena!
+
+HW 02 Tuesday ko submit krvana h -_- 
+kon keh rha rh Thursday ko krnvana h?
+Tuesday h deadline :( 
+
+Pta chalay to btana :P 
+
+Monday ko koi quiz ha?
+
+Wohi ho ga pahly to kuch parha nai :( 
+
+Ma ny to bhai sy usb leni thi hmwork paste karna tha :( 
+
+Shiza keh rhi h nhi
+
+Guys, kl koi makeup lec to nhi na?
+
+Gate p a jao
+
+A jao Hm wait kr rae
+
+Mayra Ka dekh loo
+
+Mere b logical hn :(
+kher
+mein is format mein bta rhi hun:
+exeTime, waitingTime, turnaround
+
+23, 0, 23
+13, 23, 36
+10, 36, 46
+9, 46, 55
+5, 55, 60
+4, 60, 64
+
+Job'S' that are in the file at the start of the program are assumed to have arrival time 0. mtlb jb pehli martaba file read krenge to sb jobs ka arrival time zero hoga.
+jb next time krenge read, to jo total time us wqt ho chuka hoga wo us wqt ki tamam jobs ka arrival time hoga.
+jese aagay likha hua h: Job'S' that appear in the file at time 10 hv arrival time 10 and so on...
+
+Qk show to sorted order mein e ho rha h.. :/ Ab kya krna h?
+
+Nhi ja rha h koi b??
+
+Mai to nai Ana Mera ghr b mozang h r thokar tk bnd hona even metro b bnd hai 
+
+Kal.Kisi ne Jana hai uni??
+
+Code label or data label mein difference kya h? :P 
+
+Wishng u a vry Happy Birth Day dear! Nd sory for late wishng!
+
+Aajaun book lene?
+
+11100010
+Is ko kro to kya aye ga?
+
+Ye sar kia krti thi ?
+
+Guyzz js k pas DM ki buk softcopy form me e wo plzzzzz mje mail kr de nd js k pas hard copy form me e wo f.b pe hmwrk k ques ki picx snd kr de plzzz!
+
+Ohh itni sari chutian 2 weeks :( dl ni kr ra uni jna uni yd aa ri :( :D
+
+19 Dec to Jan 2 tk chuttiyan hain 
+
+Pehle chhuttiyan ""lene"" ka dil kr rha th.. or ab itni sari unecpected chhuttuyan.. Mje nhi chahyen esi chhuttiyaan, mene uni jana h!! :'( 
+
+Dst ne bhja 
+""Me bhe ye he dekh rai the gc kai page pe post hai kai 48 hours ki threat dai di hai lahore r karachi me kal 8 bje tk ki deadline hai specially lc r gcu"" 
+
+Guyss Cr ki post dkhi .. kl se chutian achnk hi r vo b 9 jan tk??? R mny 2,3 jga yh LC r KC ka suna hai k dhamki mli hai .. r dno me kl se chutian 10 jan tk achnk vo b ... I dnt knw kia chkkr hai bs ab ek r incident ni :( bht ho chuka pshwr me ya Allah reham sb p ab vo sb dbra ni :'( Allah sb ko apny hifz o amaan me rkhy ameen 
+
+:( Shiza tumhari bday b gai
+
+Jumma mubarak :) sb ko apni duaon me yd rakhein .. Allah sb p reham frmaye ameen :) 
+
+Entering Khayaban-e-Amin :) 
+
+Awsome! MashAllah! Cngrats dear! :-) 
+
+Phir mera bnta e ye hoga :P 
+
+Gpa to 3.31 :/ :P lkn cgpa mje lgta h sahi nhi likha hua h..
+
+Pta nhi.. Mera cgpa to utna e likha hua h jitna scnd sem ka gpa bnta h.. Halanke mere khayal se mera km bnega cgpa gpa se :| tmhara b ese e h??
+
+Mera to nae aya! Kitna gpa aya tera???
+
+Mera bhiii :D mene yei puchne k liye mbyl pkra th :D 
+
+Irsa, tmharay pass jannat ka num h to send krna :P 
+
+Hahaha.. Mera b to warid e h :@
+
+Eid Mubarik in advance :) <3 mobile networks ka koi bharosah nhi..! :D 
+
+
+haha kya mtlb? :P 
+
+Wah wah
+Arz kia h 
+Tum ne bbaya h pulao
+Zra idhar b to bhijwao 
+:P 
+
+Kya zalalat hai
+Na gas na light na net 
+
+SOoo finalllly, i got back my internet connection!! :P
+\(*o*)/ 
+
+Yr  koi horror movie ka name hi bta do 
+
+Kisi sy lab hui?
+
+Chli gai pakkaNay ??
+2 plate mjy b bhjwa dyn Khali nai Biryani ki :P 
+Humari sui gas nai ati :( :b 
+
+Okay guys, chunkeh ulluon k jaagnay ka tym shuru ho rha h.. Isliye mein to chali sonay.. :P 
+SHAB BAKHAIR
+wese bisti apni jga lkn m missing all my besties :') 
+lub u awllll... :*
+
+Hw ka.kch bna yaro? :( 
+
+HomeWork Twoooooo
+pls GTH
+
